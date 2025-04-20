@@ -23,7 +23,7 @@ This repository contains four tasks as described in the take-home prompt:
 - Used three models: `all-MiniLM-L6-v2`, `paraphrase-mpnet-base-v2`, and `bert-base-nli-mean-tokens`
 - Visualized embeddings using **PCA** and **t-SNE**
 - Compared cosine similarity between sentence pairs
-- 📍 [See: `Task_1.ipynb`](https://github.com/pp11-web/fetch_ML/blob/main/Task_1.ipynb)
+- 📍 [See: `Task_1.ipynb`](https://github.com/pp11-web/fetch_ML/blob/main/Task_1_cleaned.ipynb)
 
 ### Task 2: Multi-Task Learning Expansion
 - Built a shared encoder with two classifier heads:
