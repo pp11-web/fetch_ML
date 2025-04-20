@@ -23,14 +23,14 @@ This repository contains four tasks as described in the take-home prompt:
 - Used three models: `all-MiniLM-L6-v2`, `paraphrase-mpnet-base-v2`, and `bert-base-nli-mean-tokens`
 - Visualized embeddings using **PCA** and **t-SNE**
 - Compared cosine similarity between sentence pairs
-- 📍 [See: `Task_1.ipynb`](./Task_1.ipynb)
+- 📍 [See: `Task_1.ipynb`](https://github.com/pp11-web/fetch_ML/blob/main/Task_1.ipynb)
 
 ### Task 2: Multi-Task Learning Expansion
 - Built a shared encoder with two classifier heads:
   - Task A: Sentence Classification
   - Task B: Sentiment Analysis
 - Used synthetic data to test forward pass and independent loss calculations
-- 📍 [See: `Task_2.ipynb`](./Task_2.ipynb)
+- 📍 [See: `Task_2.ipynb`](http://github.com/pp11-web/fetch_ML/blob/main/Task_2.ipynb)
 
 ### Task 3: Training Considerations
 - Explored:
